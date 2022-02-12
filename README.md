@@ -7,7 +7,7 @@ Nella cartella doc è presente la documentazione del codice dove vengono specifi
 
 Tale progetto può essere migliorato e reso più efficiente utilizzando altri metodi.
 
-### [La cartella condivisa presenta il codice già compilato e il plot già generato, se si desidera ricompilarepartendo dalla cartella principale, eseguire nel terminale "make all". Se invece si desidera eliminare i file generati in compilazione eseguire "make clean". Seguire poi le istruzioni seguenti.]
+### [La cartella condivisa presenta il codice già compilato e il plot già generato, se si desidera ricompilare partendo dalla cartella principale, eseguire nel terminale "make all". Se invece si desidera eliminare i file generati in compilazione eseguire "make clean". Seguire poi le istruzioni seguenti.]
 
 ## Istruzioni d'uso
 
