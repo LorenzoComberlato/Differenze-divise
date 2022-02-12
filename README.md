@@ -23,7 +23,7 @@ Il programma permette di avere in input sia un file txt sia valori immessi da te
     Per eseguire il programma, eseguire il file test (nella cartella bin) seguito dal nome del file contenente i valori scrivendo il percorso corretto:
     
     esempio di compilazione:
-    ```json
+    ```
         ./test ../test/tabella_input.txt
     ```
     E' stato creato un file d'esempio in test chiamato "tabella_input.txt". Per importare altre tabelle basta inserirle nella sottocartella /test.
